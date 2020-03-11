@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amc-loader-prototype/static/css/main.d40420df.chunk.css",
-    "main.js": "/amc-loader-prototype/static/js/main.cd1b9958.chunk.js",
-    "main.js.map": "/amc-loader-prototype/static/js/main.cd1b9958.chunk.js.map",
+    "main.js": "/amc-loader-prototype/static/js/main.630721fc.chunk.js",
+    "main.js.map": "/amc-loader-prototype/static/js/main.630721fc.chunk.js.map",
     "runtime~main.js": "/amc-loader-prototype/static/js/runtime~main.fd3b1f2e.js",
     "runtime~main.js.map": "/amc-loader-prototype/static/js/runtime~main.fd3b1f2e.js.map",
     "static/js/2.ca1e68d4.chunk.js": "/amc-loader-prototype/static/js/2.ca1e68d4.chunk.js",
     "static/js/2.ca1e68d4.chunk.js.map": "/amc-loader-prototype/static/js/2.ca1e68d4.chunk.js.map",
     "index.html": "/amc-loader-prototype/index.html",
-    "precache-manifest.6559ec27d4e67d9ddebabb2d83ab4892.js": "/amc-loader-prototype/precache-manifest.6559ec27d4e67d9ddebabb2d83ab4892.js",
+    "precache-manifest.a7b3aecc4f6d8156891620ad7bb419f3.js": "/amc-loader-prototype/precache-manifest.a7b3aecc4f6d8156891620ad7bb419f3.js",
     "service-worker.js": "/amc-loader-prototype/service-worker.js",
     "static/css/main.d40420df.chunk.css.map": "/amc-loader-prototype/static/css/main.d40420df.chunk.css.map"
   }
