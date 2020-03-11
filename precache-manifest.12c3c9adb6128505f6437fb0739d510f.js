@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5282c53667452166cea4c5652d2ec666",
+    "revision": "c9341003873d7544b1f2854f0661fa75",
     "url": "/amc-loader-protoype/index.html"
   },
   {
