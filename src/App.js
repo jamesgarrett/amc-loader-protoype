@@ -13,7 +13,7 @@ class App extends Component {
 
   componentDidMount(){
 
-    fetch('http://amc-api-br.svc.ds.amcn.com/v2/public/feed/collections?name=featured_shows')
+    fetch('https://amc-api-br.svc.ds.amcn.com/v2/public/feed/collections?name=featured_shows')
       .then(res => res.json())
       .then(json => {
         this.setState({

@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './styles/index.css';
 import './styles/App.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render((
-  <BrowserRouter>
+  <Router basename="/amc-loader-prototype">
     <App />
-  </BrowserRouter>
+  </Router>
   ), document.getElementById('root')
 );
 
