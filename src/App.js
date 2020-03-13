@@ -28,7 +28,7 @@ class App extends Component {
       var { isLoaded, shows } = this.state;
 
       if (!isLoaded){
-        return <div className="Loader"><img width="640" height="360" src="loader-lg.gif"></img></div>;
+        return <div className="Loader"><img src="loader-1x.gif"></img></div>;
       }
 
       return (
